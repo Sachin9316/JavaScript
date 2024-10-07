@@ -4,4 +4,4 @@
 
 ((name) => {
   console.log(`${name}`);
-})("SAchin")
+})("Sachin")
