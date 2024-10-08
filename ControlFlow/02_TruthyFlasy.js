@@ -6,4 +6,3 @@
 
 const price = 200;
 (price < 180) ? console.log("GEt It For 180") : console.log("Get  it for 200");
-7600
